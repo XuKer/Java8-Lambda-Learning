@@ -1,1 +1,6 @@
-# Java8-Lambda-Learning
+# Lambda 基础教程
+
+本项目内容为Lambda基础教程。 包含Lambda函数式编程各种特性。如您觉得该项目对您有用，欢迎点击右上方的**Star**按钮支持！！
+-- ---
+ 
+ 
